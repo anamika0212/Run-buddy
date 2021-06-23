@@ -13,3 +13,5 @@ https://anamika0212.github.io/Run-buddy/
 
 ## Contribution
 Made with ❤️ by [Anamika]
+
+### ©️2019 Run Buddy, Inc 
